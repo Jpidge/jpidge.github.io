@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.github.jpidge.sexydice",
+      "sha256_cert_fingerprints": [
+        "45:50:A3:AD:B5:94:19:75:3B:BA:9E:94:01:3D:09:09:5C:B3:7F:A2:34:2E:22:8B:B5:47:9C:A4:C4:CE:BD:76"
+      ]
+    }
+  }
+]
